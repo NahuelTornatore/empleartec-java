@@ -1,0 +1,23 @@
+import javax.swing.JOptionPane;
+
+public class Operacion {
+
+	public static void main(String[] args) {
+		int num1, num2, resultado ;
+		num1 = 4;
+		num2 = 5;
+		resultado = num1 + num2 ;
+		System.out.println("el resultado es:"+resultado);
+		
+		
+				
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

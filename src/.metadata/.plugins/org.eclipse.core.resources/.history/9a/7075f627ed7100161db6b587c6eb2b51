@@ -1,0 +1,12 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Operacion operacion = new Sumar(1, 1) ;
+		
+		System.out.println("suma 1+1= " + operacion.calcular());
+		
+		
+}
+
+}
